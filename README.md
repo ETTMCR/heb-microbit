@@ -27,7 +27,9 @@ You can use the characters below and space.
 
 It works.
 ```
-hebrew.showString("שלום")
+hebrew.showString("שלום !")
+
+Hebrew is written from right to left, so, only in the text input block, note for rtl issue in the end of the line, i.e. other symboles than Hebrew, are shown on the right side, rather than left.
 ```
 
 ## License
